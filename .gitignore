@@ -1,0 +1,4 @@
+/build
+/dist
+/functionTime.egg-info
+*.pyc
