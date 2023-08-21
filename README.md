@@ -8,7 +8,7 @@ Decorator to time your function
 from functionTime import clockIT
 ```
 This will import the clockIT function from the package which is a decorator function
-that you can use to decorate your function with. Calling the function will show its runtime.
+that you can use to decorate your function. Calling the function will show its runtime.
 
 ### Example
 
@@ -21,7 +21,7 @@ def hello():
 
 hello()
 ```
-Caliing the hello() function will do its intended function and its runtime will also be printed.
+Calling the hello() function will do its intended function and its runtime will also be printed.
 
 
 
