@@ -2,6 +2,9 @@
 Decorator to time your function
 
 ## How to use
+```python
+pip install functionTime
+```
 
 ### Import the clockIt function
 ```python
